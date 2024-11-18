@@ -1,12 +1,17 @@
-# 🚀 ***Hi, I’m Siddharth Joshi*** — Python Programmer, Wordpress Developer, Solana Developer, Ethereum Developer & Blockchain Enthusiast 🌍
+# 🚀 **Hi, I’m Siddharth Joshi**  
+**Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
+
+![Profile Views](https://komarev.com/ghpvc/?username=Siddharth594&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Siddharth594?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Siddharth594?style=social)
 
 ---
 
 ### 🪐 **Currently Working On**  
-**Project Jupiter Chain** — Making use of Jupiter’s Terminal for decentralized exchange aggregation and cross-chain swaps.
+**Project Jupiter Chain** — Utilizing Jupiter’s Terminal for decentralized exchange aggregation and cross-chain swaps.
 
 ### 🔭 **Recent Python Project**  
-A Face Recognition system using OpenCV and Machine Learning.
+Developed a Face Recognition system leveraging **OpenCV** and **Machine Learning**.
 
 ### 🌱 **Learning Journey**  
 Currently exploring **CSS** and **HTML** to enhance web development skills.
@@ -15,7 +20,7 @@ Currently exploring **CSS** and **HTML** to enhance web development skills.
 Developing an **Attendance System** using Python.
 
 ### 💬 **Ask Me About**  
-Anything related to my **experience with Python** or blockchain development.
+My experience with **Python** or blockchain development in the **Solana ecosystem**.
 
 ### 📫 **Reach Me At**  
 **siddharthjosh00@gmail.com**
@@ -25,29 +30,29 @@ Anything related to my **experience with Python** or blockchain development.
 ## 🔨 **What I Do**
 
 - **Solana dApps & Smart Contracts**:  
-  Specializing in high-performance dApps, custom smart contracts with **Rust** and **Anchor**.  
+  Specializing in high-performance decentralized applications and custom smart contracts using **Rust** and **Anchor**.
 
 - **Cross-Chain Solutions**:  
-  Building tools for seamless integration across **Solana** and **Ethereum**.  
+  Building tools for seamless integration across **Solana** and **Ethereum** platforms.
 
 - **NFTs & Token Protocols**:  
-  Creating platforms for NFT minting and innovative tokenomics.  
+  Creating platforms for NFT minting and developing innovative tokenomics.
 
 - **DeFi Protocols**:  
-  Contributing to liquidity pools, staking, and governance solutions.
+  Contributing to liquidity pools, staking mechanisms, and governance solutions.
 
 ---
 
-## 🔥 **My Solana Projects**
+## 🔥 **Highlighted Projects**
 
 - **Jupiter Chain**:  
-  A DEX aggregator for the best cross-chain swaps.  
+  A decentralized exchange aggregator ensuring optimal cross-chain swaps.
 
 - **NFT Price Floor**:  
-  NFT marketplace built on **Ethereum**, enabling fast transactions.  
+  An NFT marketplace built on **Ethereum**, enabling fast and secure transactions.
 
 - **DeFiSphere Finance**:  
-  A DeFi lending platform leveraging Solana’s speed for efficient collateralized loans.  
+  A DeFi lending platform leveraging Solana’s speed for efficient collateralized loans.
 
 - **MOOAR**:  
   An equitable NFT marketplace and launchpad that prioritizes creators.
@@ -56,36 +61,36 @@ Anything related to my **experience with Python** or blockchain development.
 
 ## 🧑‍💻 **Technologies I Work With**
 
-**Languages**:  
-Rust, JavaScript, TypeScript, Python, Solidity  
-
-**Frameworks & Tools**:  
-Anchor, Solana CLI, React, Web3.js, Ethers.js, Next.js  
-
-**Blockchain Platforms**:  
-Solana, Ethereum, Polkadot  
-
-**Protocols**:  
-DeFi, NFTs, Smart Contracts, Cross-Chain Bridges  
-
-**Databases**:  
-PostgreSQL, MongoDB  
-
-**Version Control**:  
-Git, GitHub, GitLab  
+![Languages](https://skillicons.dev/icons?i=rust,js,ts,py,solidity)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,anchor,ethers,web3)
+![Blockchain Platforms](https://skillicons.dev/icons?i=solana,ethereum,polkadot)
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb)
+![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)
 
 ---
 
 ## 🌟 **Why Solana?**
 
-With its unmatched **speed**, **scalability**, and **low transaction costs**, Solana is perfect for real-world applications that scale. I’m passionate about contributing to its ecosystem and helping businesses unlock the potential of decentralized technology.
+I am drawn to Solana for its unmatched **speed**, **scalability**, and **low transaction costs**, making it the perfect platform for developers looking to build real-world applications that scale. The ecosystem is thriving, and I’m excited to contribute to its growth while helping businesses and users unlock the potential of decentralized technologies.
 
 ---
 
 ## 🌐 **Let’s Connect**
 
-💬 Always open to collaboration or discussing innovative blockchain solutions.  
-Feel free to reach out for project discussions or even just a chat about all things **Solana** and **blockchain**!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Siddharth594)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-joshi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SiddharthJoshi)
 
 ---
 
+### 📊 **GitHub Stats**
+
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth594&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth594&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth594&theme=radical)
+
+---
+
+### ⌨️ **Dynamic Typing Animation**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I+am+a+Python+Developer;Blockchain+Enthusiast+and+more...)](https://git.io/typing-svg)

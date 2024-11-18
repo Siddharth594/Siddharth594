@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+Siddharth+Joshi;Python+Programmer+%7C+Solana+Developer;Blockchain+Enthusiast+%7C+DeFi+Innovator)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+Siddharth+Joshi;Python+Programmer+%7C+Solana+Developer;Blockchain+Enthusiast+%7C+DeFi+Innovator)](https://git.io/typing-svg)
 
 # 🚀 **Hi, I’m Siddharth Joshi**  
 **Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
@@ -85,14 +85,11 @@ I am drawn to Solana for its unmatched **speed**, **scalability**, and **low tra
 
 ---
 
-### 📊 **GitHub Stats**
+<details>
+  <summary>📊 <strong>GitHub Stats</strong> (Click to expand)</summary>
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth594&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth594&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth594&theme=radical)
+  ![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth594&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth594&layout=compact&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth594&theme=radical)
 
----
-
-### ⌨️ **Dynamic Typing Animation**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Exploring+the+World+of+DeFi;Solana+is+Fast!;Let's+Build+Something+Innovative!)](https://git.io/typing-svg)
+</details>

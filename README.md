@@ -3,9 +3,9 @@
 # 🚀 **Hi, I’m Siddharth Joshi**  
 **Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
 
-![Profile Views](https://komarev.com/ghpvc/?username=Siddharth594&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Siddharth594?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Siddharth594?style=social)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-blueviolet?style=flat-square)
+![GitHub Followers](https://img.shields.io/badge/Followers-77-blue?style=social&logo=github)
+![GitHub Stars](https://img.shields.io/badge/Stars-50-blue?style=social&logo=github)
 
 ---
 

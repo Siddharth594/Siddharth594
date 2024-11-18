@@ -1,3 +1,5 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+Siddharth+Joshi;Python+Programmer+%7C+Solana+Developer;Blockchain+Enthusiast+%7C+DeFi+Innovator)](https://git.io/typing-svg)
+
 # 🚀 **Hi, I’m Siddharth Joshi**  
 **Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
 
@@ -93,4 +95,4 @@ I am drawn to Solana for its unmatched **speed**, **scalability**, and **low tra
 
 ### ⌨️ **Dynamic Typing Animation**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I+am+a+Python+Developer;Blockchain+Enthusiast+and+more...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Exploring+the+World+of+DeFi;Solana+is+Fast!;Let's+Build+Something+Innovative!)](https://git.io/typing-svg)

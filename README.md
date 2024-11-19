@@ -3,11 +3,14 @@
 # 🚀 **Hi, I’m Siddharth Joshi**  
 **Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-blueviolet?style=flat-square)
-![GitHub Followers](https://img.shields.io/badge/Followers-77-blue?style=social&logo=github)
-![GitHub Stars](https://img.shields.io/badge/Stars-50-blue?style=social&logo=github)
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Siddharth594&color=blueviolet&style=flat-square) -->
+<!--![Profile Views](https://img.shields.io/badge/Profile%20Views-2000-blueviolet?style=flat-square)
+![GitHub Followers](https://img.shields.io/badge/Followers-77-blue?style=social&logo=github)
+![GitHub Stars](https://img.shields.io/badge/Stars-50-blue?style=social&logo=github)-->
+![Profile Views](https://komarev.com/ghpvc/?username=Siddharth594&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Siddharth594?style=social)
+<!--![GitHub Stars](https://img.shields.io/github/stars/Siddharth594?style=social)-->
+
 
 ---
 
@@ -54,10 +57,10 @@ My experience with **Python** or blockchain development in the **Solana ecosyste
 
 - **NFT Price Floor**:  
   An NFT marketplace built on **Ethereum**, enabling fast and secure transactions.
-
+<!--
 - **DeFiSphere Finance**:  
   A DeFi lending platform leveraging Solana’s speed for efficient collateralized loans.
-
+-->
 - **MOOAR**:  
   An equitable NFT marketplace and launchpad that prioritizes creators.
 

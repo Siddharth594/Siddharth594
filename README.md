@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+Siddharth+Joshi;Python+Programmer+%7C+Solana+Developer;Blockchain+Enthusiast+%7C+DeFi+Innovator)](https://git.io/typing-svg)
 
-# 🚀 **Hi, I’m Siddharth Joshi**  
+# 🚀 **Hi, I’m Soju**  
 **Python Programmer | WordPress Developer | Solana Developer | Ethereum Developer | Blockchain Enthusiast** 🌍
 
 

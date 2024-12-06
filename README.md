@@ -15,7 +15,7 @@
 ---
 
 ### 🪐 **Currently Working On**  
-**Project Jupiter Chain** — Utilizing Jupiter’s Terminal for decentralized exchange aggregation and cross-chain swaps.
+**Project JupSol** — Utilizing Jupiter’s Terminal for decentralized exchange aggregation and cross-chain swaps.
 
 ### 🔭 **Recent Python Project**  
 Developed a Face Recognition system leveraging **OpenCV** and **Machine Learning**.
@@ -52,7 +52,7 @@ My experience with **Python** or blockchain development in the **Solana ecosyste
 
 ## 🔥 **Highlighted Projects**
 
-- **Jupiter Chain**:  
+- **JupSol**:  
   A decentralized exchange aggregator ensuring optimal cross-chain swaps.
 
 - **NFT Price Floor**:  

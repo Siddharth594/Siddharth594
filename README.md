@@ -30,7 +30,7 @@ Developing an **Attendance System** using Python.
 My experience with **Python** or blockchain development in the **Solana ecosystem**.
 
 ### 📫 **Reach Me At**  
-**siddharthjosh00@gmail.com**
+**connect@jupsol.io**
 
 ---
 
